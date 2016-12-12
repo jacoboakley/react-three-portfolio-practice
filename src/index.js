@@ -4,6 +4,7 @@ import ReactDOM from 'react-dom';
 import logo from './logo.svg';
 import './index.css';
 
+// THREE.js THREE.js THREE.js THREE.js
 var width = window.innerWidth;
 var height = window.innerHeight;
 
@@ -37,6 +38,8 @@ function render() {
 
 render();
 
+// REACT REACT REACT REACT
+
 class App extends React.Component {
   render() {
     return (
@@ -46,7 +49,7 @@ class App extends React.Component {
           <h2>Welcome to React with THREE.js</h2>
         </div>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+          To get started, edit <code>src/index.js</code> and save to reload.
         </p>
       </div>
     );
